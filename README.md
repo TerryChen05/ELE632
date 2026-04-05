@@ -1,6 +1,6 @@
 # ELE632 - Signals and Systems II
 
-This repository contains my completed laboratory assignments for **ELE 632: Signals and Systems II**, completed during the Winter 2026 term (in progress) under Dr. Kandasamy Illanko.
+This repository contains my completed laboratory assignments for **ELE 632: Signals and Systems II**, completed during the Winter 2026 term under Dr. Kandasamy Illanko.
 
 ## Course Overview
 
